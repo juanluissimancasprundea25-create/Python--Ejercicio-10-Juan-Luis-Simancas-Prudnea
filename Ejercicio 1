@@ -1,0 +1,8 @@
+import numpy as np
+
+
+array1=np.zeros((3 , 3))
+array1 [1,1] =1
+
+
+print(array1)
