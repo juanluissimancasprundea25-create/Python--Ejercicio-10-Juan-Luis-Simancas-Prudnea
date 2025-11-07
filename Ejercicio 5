@@ -1,0 +1,8 @@
+import numpy as np
+
+
+matriz1=np.random.randint(1 , 50 , size=(3, 4))
+valor_maximo=np.max(matriz1 , axis=0)
+
+
+print(valor_maximo)
